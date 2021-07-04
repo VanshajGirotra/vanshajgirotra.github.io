@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{GZiI:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a);t.default=function(e){var t=e.pathContext,n=t.name,i=t.url;return Object(a.useEffect)((function(){window.gtag&&window.gtag("event","redirect",{name:n,url:i}),window.location=i})),c.a.createElement("div",{className:"flex justify-center items-center min-h-screen"},c.a.createElement("h1",{className:"text-base md:text-3xl text-center"},"Redirecting you to ",i))}}}]);
+//# sourceMappingURL=component---src-templates-redirect-js-768d3dae3f831430575a.js.map
